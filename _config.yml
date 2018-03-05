@@ -52,14 +52,13 @@ website:            williamqin.com
 email:              hello@williamqin.com
 devpost:            williamqin
 
+# Resume
+resume:             WilliamQin-Resume.pdf
+
 plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-gist
-  - jekyll-paginate
-
-paginate: 9
-paginate_path: "/blog/page:num"
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
