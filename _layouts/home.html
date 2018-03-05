@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        {% include head.html %}
+        <style>
+            .portrait {
+                width: 10rem;
+                height: 10rem;
+
+                /* border-style: solid;
+                border-color: black;
+                border-width: 0.2rem; */
+                border-radius: 5rem;
+
+                box-shadow: 0px 0px 10px 0 rgba(0,0,0,0.2);
+            }
+
+            .vertical-center {
+                padding: 0.5rem;
+            }
+
+            .card-home {
+                max-width: 36rem;
+                max-height: 36rem;
+                padding: 2rem;
+
+                background-color: #fff;
+                color: #212121;
+
+                border-radius: 0.2rem;
+
+                box-shadow: 0px 0px 15px 0 rgba(0,0,0,0.2),
+                            0px 0px 60px 0 rgba(0,0,0,0.5);
+            }
+        </style>
+    </head>
+    <body>
+        
+        <div class="vertical-center">
+            <div class="container card-home">
+                <div class="row">
+                    <div class="col-sm-12 horizontal-center">
+                        <a href="#">
+                            <img class="full portrait" src="../assets/img/squares/portrait2.jpg" />
+                        </a>
+                    </div>
+                    <div class="col-sm-12 text-center">
+                        <br>
+                        <h1>
+                            William Qin
+                        </h1>
+                        <p>
+                            student &amp; developer
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {% include scripts.html %}
+    </body>
+
+
+
+
+</html>

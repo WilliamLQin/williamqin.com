@@ -1,0 +1,64 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: William Qin
+email: william.qin51@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Hi! I'm William Qin, and I've got projects, video games, stories, tutorials, and ideas to share!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://williamqin.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Jekyll
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:title/
+  pages:
+    output: true
+    permalink: /:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Analytics
+analytics-id:       "UA-104496008-2"
+
+# Social
+facebook:           william.qin51
+github:             WilliamLQin
+linkedin:           williamqin
+website:            williamqin.com
+email:              hello@williamqin.com
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+paginate: 9
+paginate_path: "/blog/page:num"
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
