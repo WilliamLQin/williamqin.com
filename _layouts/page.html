@@ -1,71 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style="background-color: #{{ page.bgcolor }}">
 
     <head>
         {% include head.html %}
-        <style>
-
-            .vertical-center {
-                padding: 0.5rem;
-            }
-
-            .card-page {
-                max-width: 60rem;
-                padding: 2rem;
-
-                background-color: #fff;
-                color: #212121;
-
-                border-radius: 0.2rem;
-
-                box-shadow: 0px 0px 15px 0 rgba(0,0,0,0.2),
-                            0px 0px 60px 0 rgba(0,0,0,0.5);
-            }
-
-            .light {
-                color: #757575;
-            }
-
-            .row {
-                line-height: 2;
-            }
-        </style>
     </head>
     <body>
         {% include nav.html %}
 
-        <div class="vertical-center">
-            <div class="container card-page text-center animated fadeIn">
-                <span>
-                    William Qin &nbsp;|&nbsp;
-                </span>
-                <span class="light">
-                    student, developer, and creator
-                </span>
-                <span>
-                    &nbsp;|&nbsp;
-                </span>
-                <span>
-                    {% include social-links-sm.html %}
-                </span>
-                <span>
-                    <a href="about">
-                        About
-                    </a>
-                    <a href="blog">
-                        Blog
-                    </a>
-                    <a href="projects">
-                        Projects
-                    </a>
-                    <a href="resume">
-                        Resume
-                    </a>
-                </span>
+        <div class="holder holder-stack">
+            <div class="container card-page animated fadeIn">
+                {{content}}
             </div>
         </div>
-
-        {{content}}
+        
 
         {% include footer.html %}
 

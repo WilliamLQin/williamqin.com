@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand:400,500');
+/* @import url('https://fonts.googleapis.com/css?family=Quicksand:400,500'); */
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,600,600i,700,700i');
 
 html {
     background-color: #c5e1a5;
@@ -6,11 +7,12 @@ html {
 }
 
 html * {
-    font-family: 'Quicksand', sans-serif;
+    /* font-family: 'Quicksand', sans-serif; */
+    font-family: 'Nunito Sans', sans-serif;
 }
   
 body {
-    background-color: #c5e1a5;
+    background-color: inherit;
     /* color: #212121; */
     overflow-y: scroll;
     overflow-x: hidden;
@@ -37,6 +39,58 @@ body {
 .full {
     width: 100%;
     height: 100%;
+}
+
+.holder {
+    padding: 0.5rem;
+}
+
+.holder-stack {
+    margin-top: 1rem;
+}
+
+.light {
+    color: #757575;
+}
+
+.card-home {
+    max-width: 36rem;
+    padding: 2rem;
+
+    background-color: #fff;
+    color: #212121;
+
+    border-radius: 0.2rem;
+
+    box-shadow: 0px 0px 14px 0 rgba(0,0,0,0.6);
+}
+
+.card-page {
+    max-width: 57rem;
+    padding: 5rem 4rem;
+
+    background-color: #fff;
+    color: #212121;
+
+    border-radius: 0.2rem;
+
+    box-shadow: 0px 0px 14px 0 rgba(0,0,0,0.6);
+}
+
+.card-nav {
+    max-width: 30rem;
+    padding: 1rem;
+
+    background-color: #fff;
+    color: #212121;
+
+    border-radius: 0.2rem;
+
+    box-shadow: 0px 0px 14px 0 rgba(0,0,0,0.6);
+}
+
+nav {
+    padding-top: 2rem;
 }
 
 

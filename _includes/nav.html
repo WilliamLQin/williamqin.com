@@ -1,0 +1,123 @@
+<nav>
+    <style>
+        .main {
+            margin: auto; 
+            max-width: 925px;
+            padding: 0;
+        }
+        .section {
+            padding: 0;
+            width: 100%;
+        }
+
+        @media(min-width: 768px) {
+            .section-title {
+                max-width: 41.4%;
+            }
+            .section-nav {
+                max-width: 40.4%;
+            }
+            .section-social {
+                max-width: 18.2%;
+            }
+        }
+    </style>
+
+    <div class="row main">
+        <div class="section section-title">
+            <div class="holder">
+                <div class="container card-nav text-center animated fadeIn">
+                    <span>
+                        William Qin
+                    </span>
+                    <span>
+                        &nbsp;|&nbsp;
+                    </span>
+                    <span class="light">
+                        student, developer, and creator
+                    </span>
+                </div>
+            </div>
+        </div>
+        <div class="section section-nav">
+            <div class="holder">
+                <div class="container card-nav text-center animated fadeIn">
+                    <span>
+                        <a href="/">
+                            Home
+                        </a>
+                        &nbsp;|&nbsp;
+                        <a href="/about">
+                            About
+                        </a>
+                        &nbsp;|&nbsp;
+                        <a href="/blog">
+                            Blog
+                        </a>
+                        &nbsp;|&nbsp;
+                        <a href="/projects">
+                            Projects
+                        </a>
+                        &nbsp;|&nbsp;
+                        <a href="/resume">
+                            Resume
+                        </a>
+                    </span>
+                </div>
+            </div>
+        </div>
+        <div class="section section-social">
+            <div class="holder">
+                <div class="container card-nav text-center animated fadeIn">
+                    <span>
+                        {% include social-links-sm.html %}
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- <div class="holder holder-stack">
+        <div class="container card-page text-center animated fadeIn">
+            <span>
+                William Qin
+            </span>
+            <span>
+                &nbsp;|&nbsp;
+            </span>
+            <span class="light">
+                student, developer, and creator
+            </span>
+            <span>
+                &nbsp;|&nbsp;
+            </span>
+            <span>
+                <a href="/">
+                    Home
+                </a>
+                &nbsp;|&nbsp;
+                <a href="about">
+                    About
+                </a>
+                &nbsp;|&nbsp;
+                <a href="blog">
+                    Blog
+                </a>
+                &nbsp;|&nbsp;
+                <a href="projects">
+                    Projects
+                </a>
+                &nbsp;|&nbsp;
+                <a href="resume">
+                    Resume
+                </a>
+            </span>
+            <span>
+                &nbsp;|&nbsp;
+            </span>
+            <span>
+                {% include social-links-sm.html %}
+            </span>
+        </div>
+    </div> -->
+</nav>
