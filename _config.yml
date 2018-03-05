@@ -24,10 +24,13 @@ url: "https://williamqin.com" # the base hostname & protocol for your site, e.g.
 collections:
   posts:
     output: true
-    permalink: /:year/:month/:title/
+    permalink: /:year/:month/:title
+  projects:
+    output: true
+    permalink: /projects/:title
   pages:
     output: true
-    permalink: /:title/
+    permalink: /:title
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
