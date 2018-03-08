@@ -12,7 +12,7 @@
 		color: $blue;
 	}
 }
-.social-btn {
+.social-btn a {
 	padding: 10px;
   margin: 5px;
   border-radius: 20px;
@@ -137,6 +137,10 @@ img {
   margin-bottom: 1rem;
 }
 
+.image-center {
+  margin-bottom: 1rem;
+}
+
 .caption-right {
   float: right;
   clear: right;
@@ -149,6 +153,10 @@ img {
   clear: left;
   margin-right: 2rem;
   margin-bottom: 1.5rem;
+}
+
+.caption-center {
+  margin-bottom: 1rem;
 }
 
 .image-1,

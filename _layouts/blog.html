@@ -40,6 +40,10 @@
             {% assign width = 6 %}
             {% endif %} -->
 
+            {% if post.title == "Welcome to Jekyll" %}
+                {% continue %}
+            {% endif %}
+
             <div class="blog-section col-md-{{ width }}">
                 <div class="holder max-height">
                     <div class="container card card-block animated fadeIn max-height">
