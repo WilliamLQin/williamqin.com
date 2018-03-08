@@ -20,7 +20,6 @@ body {
   
 * {
     box-sizing: border-box;
-    text-decoration: none!important;
 }
 
 .vertical-center {
@@ -53,10 +52,7 @@ body {
     color: #757575;
 }
 
-.card-home {
-    max-width: 36rem;
-    padding: 2rem;
-
+.card {
     background-color: #fff;
     color: #212121;
 
@@ -65,53 +61,35 @@ body {
     box-shadow: 0px 0px 14px 0 rgba(0,0,0,0.6);
 }
 
+.card-home {
+    max-width: 36rem;
+    padding: 2rem;
+}
+
 .card-page {
     max-width: 57rem;
     padding: 5rem 4rem;
-
-    background-color: #fff;
-    color: #212121;
-
-    border-radius: 0.2rem;
-
-    box-shadow: 0px 0px 14px 0 rgba(0,0,0,0.6);
 }
 
 .card-block {
     max-width: 57rem;
     padding: 2rem;
     font-size: 0.9rem;
-
-    background-color: #fff;
-    color: #212121;
-
-    border-radius: 0.2rem;
-
-    box-shadow: 0px 0px 14px 0 rgba(0,0,0,0.6);
 }
 
 .card-nav {
     max-width: 57rem;
     padding: 1rem;
-
-    background-color: #fff;
-    color: #212121;
-
-    border-radius: 0.2rem;
-
-    box-shadow: 0px 0px 14px 0 rgba(0,0,0,0.6);
 }
 
 .card-footer {
     max-width: 57rem;
     padding: 1rem;
+}
 
-    background-color: #fff;
-    color: #212121;
-
-    border-radius: 0.2rem;
-
-    box-shadow: 0px 0px 14px 0 rgba(0,0,0,0.6);
+.card-project {
+    max-width: 57rem;
+    padding: 4rem 4rem 5rem;
 }
 
 nav {
@@ -161,4 +139,41 @@ div.image:hover img {
     -webkit-transform: scale(1.05);
     -ms-transform: scale(1.05);
     transform: scale(1.05);
+}
+
+a,
+a:link,
+a:visited,
+a:hover,
+a:active
+{
+    text-decoration: none;
+}
+
+p a,
+p a:link,
+p a:visited,
+p a:hover,
+p a:active {
+    /* text-decoration: underline; */
+    background-color: lightgreen;
+}
+
+.google-play img {
+    max-width: 400px;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
