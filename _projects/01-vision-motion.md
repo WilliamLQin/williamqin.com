@@ -18,6 +18,7 @@ It runs as an Android application.
 
 The project was built in Android Studio and programmed in Java.  
 
+<br>
 ![Vision Motion](/assets/img/visionmotion2-min.jpg){: .image-right .image-6}
 *Graph the position, velocity, and acceleration!*{: .caption-right .caption-6}
 
@@ -35,7 +36,6 @@ Last updated January 30, 2017
 
 [![Google Play Store](/assets/icons/googleplay.png)](https://play.google.com/store/apps/details?id=com.williamqin.visionmotion){:target="_blank" .google-play}
 
-<br>
 
 <div class="video-container">
     <iframe src="https://www.youtube.com/embed/DzKUS8dYLik" 

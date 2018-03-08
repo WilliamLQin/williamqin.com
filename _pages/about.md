@@ -25,7 +25,7 @@ Since I was 9 years old, I have been applying my programming skills to develop i
 Today, I use and work with many different programming languages and tools! So far, I have...
 
 * ...made games in Unity with C#
-* ...created websites using Jekyll (Ruby), Markdown, Angular, HTML, CSS, Bootstrap, jQuery, and TypeScript or JavaScript
+* ...created websites and web applications using a combination of Jekyll (Ruby), Markdown, Angular, HTML, CSS, Bootstrap, jQuery, Amazon Web Services, TypeScript and JavaScript
 * ...developed Android applications in Android Studio with Java
 * ...processed data using Python
 * ...tracked objects with computer vision and artificial intelligence
@@ -37,6 +37,7 @@ Today, I use and work with many different programming languages and tools! So fa
 <br>
 
 ![It's me by a lake!](/assets/img/william2-min.jpg){: .image-6 .image-right}
+
 
 # </>
 
