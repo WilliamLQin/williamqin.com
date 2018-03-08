@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color: #{{ page.bgcolor }}">
+
+    <style>
+        div.project-main {
+            margin: auto; 
+            max-width: 925px;
+            padding: 0;
+            display: flex;
+        }
+        div.project-section {
+            padding: 0;
+        }
+        .max-height {
+            height: 100%;
+        }
+    </style>
+
+    <head>
+        {% include head.html %}
+    </head>
+    <body>
+        {% include nav.html %}
+
+        <div class="row project-main">
+
+            {% for project in site.projects %}
+
+            {% assign width = 4 %}
+
+            {% if forloop.index == 1 or forloop.index == 2  %}
+            {% assign width = 6 %}
+            {% endif %}
+
+            <div class="project-section col-md-{{ width }}">
+                <div class="holder max-height">
+                    <div class="container card-block animated fadeIn max-height">
+                        <h1>{{ project.title }}</h1>
+                        {{ project.description }}
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+    
+        </div>
+        
+
+        {% include footer.html %}
+
+        {% include scripts.html %}
+    </body>
+
+</html>

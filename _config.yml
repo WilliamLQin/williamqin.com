@@ -27,7 +27,7 @@ collections:
     permalink: /:year/:month/:title
   projects:
     output: true
-    permalink: /projects/:title
+    permalink: /:collection/:title
   pages:
     output: true
     permalink: /:title
