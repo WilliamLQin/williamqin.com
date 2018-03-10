@@ -25,9 +25,9 @@ Learn more about this project at [Devpost](https://devpost.com/software/space-jo
 
 Play Space Jousting now!  
 
-[![Space Jousting Windows](/assets/icons/winicon.png)](/assets/downloads/SpaceJousting_win.zip){: .download-icon}
-[![Space Jousting Mac](/assets/icons/macicon.png)](/assets/downloads/SpaceJousting_mac.zip){: .download-icon}
-[![Space Jousting Linux](/assets/icons/linicon.png)](/assets/downloads/SpaceJousting_linux.zip){: .download-icon}
+[![Space Jousting Windows](/assets/icons/winicon.png)](https://cdn.williamqin.com/Space Jousting/SpaceJousting_win.zip){: .download-icon}
+[![Space Jousting Mac](/assets/icons/macicon.png)](https://cdn.williamqin.com/Space Jousting/SpaceJousting_mac.zip){: .download-icon}
+[![Space Jousting Linux](/assets/icons/linicon.png)](https://cdn.williamqin.com/Space Jousting/SpaceJousting_linux.zip){: .download-icon}
 
 
 Project created December 16, 2017

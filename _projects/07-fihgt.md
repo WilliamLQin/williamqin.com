@@ -24,9 +24,9 @@ We are now working on a new project with a bigger scope: [Plant](/projects/plant
 
 Play Fihgt now!  
 
-[![Fihgt Windows](/assets/icons/winicon.png)](/assets/downloads/Fihgt_win.zip){: .download-icon}
-[![Fihgt Mac](/assets/icons/macicon.png)](/assets/downloads/Fihgt_mac.zip){: .download-icon}
-[![Fihgt Linux](/assets/icons/linicon.png)](/assets/downloads/Fihgt_linux.zip){: .download-icon}
+[![Fihgt Windows](/assets/icons/winicon.png)](https://cdn.williamqin.com/Fihgt/Fihgt_win.zip){: .download-icon}
+[![Fihgt Mac](/assets/icons/macicon.png)](https://cdn.williamqin.com/Fihgt/Fihgt_mac.zip){: .download-icon}
+[![Fihgt Linux](/assets/icons/linicon.png)](https://cdn.williamqin.com/Fihgt/Fihgt_linux.zip){: .download-icon}
 
 
 Game created February 2, 2017
