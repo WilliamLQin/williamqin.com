@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  Energy Journal 5 - Conservation of Energy
+title: Energy Journal 5 - Conservation of Energy 
+slug: energy-journal-5-conservation-of-energy
 date:   2017-11-28
-excerpt: "All the toys! Marbles, ramps, pendulums, and poppers!"
-image: "/media/Energy Blog Graphics/popper.JPG"
-category: "energy-e-portfolio"
+description: "All the toys! Marbles, ramps, pendulums, and poppers!"
+image: "/assets/blog/Energy Blog Graphics/popper.JPG"
+bgcolor: "A5D6A7"
 ---
 
 ## Conservation of Energy
 
 <video controls width="100%" height="auto">
-    <source src="{{ "/media/Energy Blog Graphics/popper.mp4" | absolute_url }}" type="video/mp4">
+    <source src="{{ "/assets/blog/Energy Blog Graphics/popper.mp4" | absolute_url }}" type="video/mp4">
 </video>
 
 Monday and today, we did a plethora of investigations to further expand our knowledge on the conservation of energy, as well as the transfer of energy!
@@ -24,7 +25,7 @@ What’s important to note is that the way the object is moved does affect the <
 Also, while the end velocity may be the same, a steeper incline will result in a faster conversion from gravitational potential energy to kinetic energy, displacing the marble farther in a shorter amount of time.
 
 <video controls width="100%" height="auto">
-    <source src="{{ "/media/Energy Blog Graphics/marble ramp.mp4" | absolute_url }}" type="video/mp4">
+    <source src="{{ "/assets/blog/Energy Blog Graphics/marble ramp.mp4" | absolute_url }}" type="video/mp4">
 </video>
 
 2) Mass does not affect the amount of velocity gained from converting gravitational potential energy to kinetic energy. This is because of how mass is relevant in both energy equations: E<sub>k</sub> = ½mv<sup>2</sup>, and E<sub>g</sub> = mgh. When you equate the two using the law of conservation of energy, we find that the mass in both equations cancel each other out. We can then derive the equation for velocity:
@@ -40,7 +41,7 @@ v = (2gΔh)<sup>1/2</sup>
 3) If no positive work is done on an object (i.e. no increase in total mechanical energy), it will never be able to reach a height greater than the total mechanical energy divided by the weight of the object. This is primarily due to the conservation of energy, and that gravitational potential energy is given by the equation E<sub>g</sub> = mgΔh. From this equation, we get Δh = (E<sub>g</sub>)/(mg), and unless there was a change in mechanical energy, the height of the original object cannot be greater than the situation where all mechanical energy is in the form of gravitational potential energy. This is why you can hold a pendulum up to your chin and rest assured that it will not hit you when you let go (provided you don’t put any force on it when you let go).
 
 <video controls width="100%" height="auto">
-    <source src="{{ "/media/Energy Blog Graphics/pendulum.mp4" | absolute_url }}" type="video/mp4">
+    <source src="{{ "/assets/blog/Energy Blog Graphics/pendulum.mp4" | absolute_url }}" type="video/mp4">
 </video>
 
 Conservation of energy is awesome and helps us see how energy changes through math! However, I do have a few questions about what I learned:
@@ -52,11 +53,13 @@ Conservation of energy is awesome and helps us see how energy changes through ma
 Check out this intriguing top that holds gravitational potential energy while spinning. When it stops, it then converts the gravitational potential energy into kinetic energy and turns the other way!
 
 <video controls width="100%" height="auto">
-    <source src="{{ "/media/Energy Blog Graphics/top.mp4" | absolute_url }}" type="video/mp4">
+    <source src="{{ "/assets/blog/Energy Blog Graphics/top.mp4" | absolute_url }}" type="video/mp4">
 </video>
 
-## After Unit Reflection
+<br>
 
-### Investigation of Energy Transformations
+#### After Unit Reflection
+
+##### Investigation of Energy Transformations
 
 In this entire blog post, I did a thorough investigation into energy transformations and the law of conservation of energy through a series of experiments! I made several observations from this investigation. In the first learning point, I found that no matter how the energy is transformed from one form to another (in this case gravitational potential energy to kinetic energy), the final energy will always be equal to the initial energy (as long as no external work was done). In the second learning point, I noted that when transforming kinetic energy to gravitational potential energy (or vice versa), the mass does not affect the final velocity or final height. I also derived the equation for velocity for an object that starts at rest and begins falling. In the third learning point, I learned that due to the conservation of energy, an object at rest cannot attain a greater height without any outside force.

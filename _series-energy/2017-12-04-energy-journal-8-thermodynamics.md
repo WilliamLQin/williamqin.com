@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Energy Journal 8 - Thermodynamics!
+title: Energy Journal 8 - Thermodynamics! 
+slug: energy-journal-8-thermodynamics
 date:   2017-12-04
-excerpt: "Dissolving food colouring in warm (red) and cold (blue) water! The warm water's colouring is much more uniform than the cold water's colouring."
-image: "/media/Energy Blog Graphics/hot cold.jpg"
-category: "energy-e-portfolio"
+description: "Dissolving food colouring in warm (red) and cold (blue) water! The warm water's colouring is much more uniform than the cold water's colouring."
+image: "/assets/blog/Energy Blog Graphics/hot cold.jpg"
+bgcolor: "A5D6A7"
 ---
 
 ## Thermodynamics!
@@ -60,19 +61,21 @@ After this big influx of new information, I now have new questions about thermod
 A cool experiment that we did in class showed us how solvents with higher temperatures dissolved solutes faster! This is because their matter has higher internal kinetic energy, meaning that the particles are moving faster and mixing with the solute faster. We can see this through putting a few drops of food colouring in two cups of water of different temperatures. The red food colouring went into the warmer water and the blue food coloring went into the cooler water. Observe how the blue food colouring remains at the bottom while the red food colouring gets mostly mixed!
 
 <video controls width="100%" height="auto">
-    <source src="{{ "/media/Energy Blog Graphics/food colouring video.mp4" | absolute_url }}" type="video/mp4">
+    <source src="{{ "/assets/blog/Energy Blog Graphics/food colouring video.mp4" | absolute_url }}" type="video/mp4">
 </video>
 
-## After Unit Reflection
+<br>
 
-### Investigation of Energy Transformations
+#### After Unit Reflection
+
+##### Investigation of Energy Transformations
 
 In this blog post, I investigated how the law of conservation of energy applies to energy transformations concerning thermal energy. I noted that the law of conservation of energy also applies to thermal energy (1st law of thermodynamics). I also learned that mechanical energy can be transformed into thermal energy, and that this happens all the time with friction on moving objects.
 
-### Understanding Energy - Efficiency
+##### Understanding Energy - Efficiency
 
 In this blog post, I demonstrated an understanding of efficiency in physics through investigating transformations of mechanical energy into thermal energy! I noted that efficiency of a system is about the ratio between the amount of energy outputted in our desired form and the amount of energy inputted. I made the key observation that energy transformation systems are never 100% efficient in real life, since although the law of conservation of energy still applies, some of it is always transformed and “lost” into thermal energy. I applied my knowledge to solve for the efficiency of an energy transformation from gravitational potential energy to kinetic energy via a box on an inclined plane.
 
-### Understanding Energy - Thermal Energy Transfer
+##### Understanding Energy - Thermal Energy Transfer
 
 In this blog post, I showed my understanding of heat: the transfer of thermal energy. I discussed the three different ways to transfer thermal energy and their properties. Conduction needs contact, convection moves fluids, and radiation can happen anywhere. I noted that in a vacuum, the only way to transfer heat is through radiation, which does not require a medium.

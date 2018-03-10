@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  Energy Journal 13 - Solving Heat Problems
+title: Energy Journal 13 - Solving Heat Problems 
+slug: energy-journal-13-solving-heat-problems
 date:   2017-12-15
-excerpt: "Noooooooooooooooo..."
-image: "/media/Energy Blog Graphics/burning money.JPG"
-category: "energy-e-portfolio"
+description: "Noooooooooooooooo..."
+image: "/assets/blog/Energy Blog Graphics/burning money.JPG"
+bgcolor: "A5D6A7"
 ---
 
 ## Solving Heat Problems
 
 <video controls width="100%" height="auto">
-    <source src="{{ "/media/Energy Blog Graphics/burning money.mp4" | absolute_url }}" type="video/mp4">
+    <source src="{{ "/assets/blog/Energy Blog Graphics/burning money.mp4" | absolute_url }}" type="video/mp4">
 </video>
 
 In the past few days, we explored some thermal energy problems!
@@ -93,8 +94,10 @@ Two questions I still have about heat and the math behind it:
 <br>
 An intriguing experiment we did today with the quiz involved burning money, without actually burning it! The way it works is that the fire does not actually come from the combustion of the paper, instead it comes from the combustion of the alcohol of the alcohol-water solution the paper was dipped in. Since the solution also has water, the high specific heat capacity of the water is able to absorb the heat and protect the paper from increasing in temperature and combusting!
 
-## After Unit Reflection
+<br>
 
-### Solving Energy Transformation Problems
+#### After Unit Reflection
+
+##### Solving Energy Transformation Problems
 
 In this blog post, I solved heat transfer problems involving the transformation of thermal energy in one body to thermal energy in another body. I worked on simple calorimetry problems with two bodies reaching thermal equilibrium. To solve these problems, I used the law of conservation of energy to equate Q<sub>a</sub> = -Q<sub>b</sub> and the equation for the heat capacity of a body: Q = mcΔT. In addition to simple calorimetry problems, I worked on complex calorimetry problems that involved heat capacity and latent heat. I had to use the equation for the latent heat of a body, Q = mL, and used the law of conservation of energy in its transformation into increasing the internal kinetic energy of the other body.

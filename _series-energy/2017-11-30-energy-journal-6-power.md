@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  Energy Journal 6 - Power!
+title: Energy Journal 6 - Power! 
+slug: energy-journal-6-power
 date:   2017-11-30
-excerpt: "Who is the most powerful?"
-image: "/media/Energy Blog Graphics/power stairs.JPG"
-category: "energy-e-portfolio"
+description: "Who is the most powerful?"
+image: "/assets/blog/Energy Blog Graphics/power stairs.JPG"
+bgcolor: "A5D6A7"
 ---
 
 ## Power!
 
 <video controls width="100%" height="auto">
-    <source src="{{ "/media/Energy Blog Graphics/power stairs.mp4" | absolute_url }}" type="video/mp4">
+    <source src="{{ "/assets/blog/Energy Blog Graphics/power stairs.mp4" | absolute_url }}" type="video/mp4">
 </video>
 
 Today, we were introduced to the concept of power!
@@ -42,8 +43,10 @@ Power was inversely correlated with the time taken to climb the stairs. This is 
 
 However, power showed an extremely weak positive correlation with the mass of the person. Even though people with higher mass do more work by climbing the stairs, it seems that the time taken to climb the stairs varied so much compared to the mass of the people that mass was made insignificant.
 
-## After Unit Reflection
+<br>
 
-### Understanding Energy - Power
+#### After Unit Reflection
+
+##### Understanding Energy - Power
 
 In this blog post, I showed my understanding of power in physics: the rate at which work is done. I learned that power is the ratio of the amount of work done to the time interval, and can be expressed in different forms: watts (W), joules per second (Js<sup>-1</sup>), and kilogram metres squared per second cubed (kgm<sup>2</sup>s<sup>-3</sup>).

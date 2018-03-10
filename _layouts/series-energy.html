@@ -30,11 +30,21 @@
     <body>
         {% include nav.html %}
 
+        <div class="holder holder-stack">
+            <div class="container card card-page animated fadeIn">
+                {{content}}
+            </div>   
+        </div>
+
         <div class="row blog-main">
 
-            {% for post in site.posts %}
+            {% for post in site.series-energy %}
 
             {% assign width = 6 %}
+
+            {% if post.title == "Welcome to Jekyll" %}
+                {% continue %}
+            {% endif %}
 
             <div class="blog-section col-md-{{ width }}">
                 <div class="holder max-height">

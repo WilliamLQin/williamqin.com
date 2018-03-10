@@ -31,6 +31,9 @@ collections:
   pages:
     output: true
     permalink: /:title
+  series-energy:
+    output: true
+    permalink: /energy/:title
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -43,6 +46,7 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
+future:             true
 
 # Analytics
 analytics-id:       "UA-104496008-1"

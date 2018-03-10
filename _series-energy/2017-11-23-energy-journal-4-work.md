@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Energy Journal 4 - Work
+title: Energy Journal 4 - Work 
+slug: energy-journal-4-work
 date:   2017-11-23
-excerpt: "Working hard or hardly working?"
-image: "/media/Energy Blog Graphics/work.jpg"
-category: "energy-e-portfolio"
+description: "Working hard or hardly working?"
+image: "/assets/blog/Energy Blog Graphics/work.jpg"
+bgcolor: "A5D6A7"
 ---
 
 ## Work!
@@ -17,7 +18,7 @@ From the in class work and more discussion with group members, we were able to l
 
 2) Work can be positive or negative. Positive work is done when the force applied and the displacement are in the same direction. Negative work is done when the force applied and the displacement are in opposite directions. This means that our original equation, W = FΔd should now be updated to W = |FΔd|cosΘ, where Θ is the angle difference between the direction of the force and the direction of the displacement. Note that since cos 90° is equal to zero, when the the displacement is perpendicular to the applied force, the work done is zero.
 
-3) Each force on an object has its own value of work done. We can sum up all the work being done on the system to get the <em>net work</em> on the system, W<sub>net</sub> = ΣW. Another way to find the net work is by using the net force on the system and the displacement, W<sub>net</sub> = |F<sub>net</sub>Δd|cosΘ. If the net work is positive, the system gains kinetic energy. Likewise, if the net work is negative, the system loses kinetic energy. This is called the <em>kinetic energy - net work theorem</em> and is represented by the expression: W<sub>net</sub> = E<sub>k final</sub> - E<sub>k initial</sub> = ΔE<sub>k</sub>.
+3) Each force on an object has its own value of work done. We can sum up all the work being done on the system to get the *net work* on the system, W<sub>net</sub> = ΣW. Another way to find the net work is by using the net force on the system and the displacement, W<sub>net</sub> = |F<sub>net</sub>Δd|cosΘ. If the net work is positive, the system gains kinetic energy. Likewise, if the net work is negative, the system loses kinetic energy. This is called the *kinetic energy - net work theorem* and is represented by the expression: W<sub>net</sub> = E<sub>k final</sub> - E<sub>k initial</sub> = ΔE<sub>k</sub>.
 
 That’s quite a lot to take in, and I still have a few questions.
 
@@ -28,8 +29,10 @@ That’s quite a lot to take in, and I still have a few questions.
 <br>
 Something interesting that I found out today is that when drawing LOL diagrams to show the transfer of energy, we can simply extend the LOL diagram further to show multiple stages of energy transfer! We then get an LOLOLOLOL… diagram!
 
-## After Unit Reflection
+<br>
 
-### Understanding Energy - Work
+#### After Unit Reflection
+
+##### Understanding Energy - Work
 
 In this blog post, I gained an understanding of the concept of work in physics! I made an important distinction between the physics definition of work compared to everyday life: work in physics is about moving objects with a force, or changing the energy of a system, while work in everyday life is about putting in the effort. I learned how to calculate work with the equation W<sub>net</sub> = |F<sub>net</sub>Δd|cosΘ and noted that it was a scalar and had a special unit: the joule (symbol: J). In addition, I found that each force has their own value of work done, and that the net work represents the total change in energy, which can be used to determine if the system is gaining or losing energy. 

@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Energy Journal 9 - Specific Heat
+title: Energy Journal 9 - Specific Heat 
+slug: energy-journal-9-specific-heat
 date:   2017-12-06
-excerpt: "Let's increase the thermal energy of balloons and water!"
-image: "/media/Energy Blog Graphics/bunsen burners.jpg"
-category: "energy-e-portfolio"
+description: "Let's increase the thermal energy of balloons and water!"
+image: "/assets/blog/Energy Blog Graphics/bunsen burners.jpg"
+bgcolor: "A5D6A7"
 ---
 
 ## Specific Heat
@@ -18,10 +19,10 @@ We conducted two experiments to learn about what affects the transfer of thermal
 Water is a substance with a specific heat higher than most substances, and we can see that by replacing some of the air in a balloon with water, it heats up (and explodes) much slower than a balloon with just air. Due to water’s high specific heat capacity, large bodies of water help regulate the climate around them. This is why temperatures vary much less near water, and why most of our major cities are found near water.
 
 <video controls width="100%" height="auto">
-    <source src="{{ "/media/Energy Blog Graphics/burn air balloon.mp4" | absolute_url }}" type="video/mp4">
+    <source src="{{ "/assets/blog/Energy Blog Graphics/burn air balloon.mp4" | absolute_url }}" type="video/mp4">
 </video>
 <video controls width="100%" height="auto">
-    <source src="{{ "/media/Energy Blog Graphics/burn water balloon.mp4" | absolute_url }}" type="video/mp4">
+    <source src="{{ "/assets/blog/Energy Blog Graphics/burn water balloon.mp4" | absolute_url }}" type="video/mp4">
 </video>
 
 2) Usually, when calculating thermal energy, we are looking at the <strong>change</strong> in thermal energy, and so rather than just the temperature, we note the temperature change. The three pieces of information now give us the equation:
@@ -34,11 +35,8 @@ Q = mcΔT
 
 The progression of matter to the same temperature is the law of entropy, which states that the world trends towards full disorder, the point at which nothing can gain or lose energy. To see this in real life, we observed a metal disk and a plastic disk. After enough time without disturbing the two disks, their temperatures were measured, and both were found to be about the same at room temperature. 
 
-<span class="image fit"><img class="size-full wp-image-162" src="{{ "/media/Energy Blog Graphics/plate temps.jpg" | absolute_url }}" /> 
-<i>
-    Both the petri dish and the jar cap were at room temperature!
-</i>
-</span>
+![Two caps](/assets/blog/Energy Blog Graphics/plate temps.jpg){: .image-center .image-6}
+*Both the petri dish and the jar cap were at room temperature!*{: .caption-center}
 
 What's cool about specific heat is that it is something that we have to document as a dictionary of different substances and their specific heats! Here are some questions I have about specific heat:
 

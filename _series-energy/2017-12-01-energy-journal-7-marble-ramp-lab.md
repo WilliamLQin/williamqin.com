@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  Energy Journal 7 - Marble Ramp Lab
+title: Energy Journal 7 - Marble Ramp Lab 
+slug: energy-journal-7-marble-ramp-lab
 date:   2017-12-01
-excerpt: "How does ramp height affect final velocity?"
-image: "/media/Energy Blog Graphics/ballramp.JPG"
-category: "energy-e-portfolio"
+description: "How does ramp height affect final velocity?"
+image: "/assets/blog/Energy Blog Graphics/ballramp.JPG"
+bgcolor: "A5D6A7"
 ---
 
 ## Marble Ramp Lab
 
 <video controls width="100%" height="auto">
-    <source src="{{ "/media/Energy Blog Graphics/ballramp.mp4" | absolute_url }}" type="video/mp4">
+    <source src="{{ "/assets/blog/Energy Blog Graphics/ballramp.mp4" | absolute_url }}" type="video/mp4">
 </video>
 
 Last Wednesday, we conducted an experiment to investigate the relationship between the velocity of a marble after rolling down a slope and the height of the ramp! The goal of the experiment was to answer the question: “How does the height of the ramp affect the velocity of a marble after rolling down its slope?”
@@ -23,7 +24,7 @@ In other words, as you increase the starting height of the marble, the final vel
 
 In the experiment, it was found that the relations were <b>not directly proportional</b>; the trendline equations did not pass through the origin.
 
-<span class="image fit"><img class="size-full wp-image-162" src="{{ "/media/Energy Blog Graphics/ballramp3.JPG" | absolute_url }}" /> 
+<span class="image fit"><img class="size-full wp-image-162" src="{{ "/assets/blog/Energy Blog Graphics/ballramp3.JPG" | absolute_url }}" /> 
 <i>
     Figure 1: Scatter plot graph of final velocity squared compared to the starting height of the marble. 
     The trend line is linear, with an equation of v<sup>2</sup> = 20.3h - 0.22.
@@ -77,7 +78,7 @@ The percentage error of the experiment was 3.47%. This shows us how well we cond
 Some sources of error are systematic, which means that they will skew every single point of data in your collected data in the same way. In this experiment, the placement of the Labquest photogate set a certain distance for the marble to slow down from friction, reducing the final velocity of every single data point. Systematic errors reduce the <b>accuracy </b>of your experiment: how close you were to the truth.
 
 <video controls width="100%" height="auto">
-    <source src="{{ "/media/Energy Blog Graphics/ballramp photogate v2.mp4" | absolute_url }}" type="video/mp4">
+    <source src="{{ "/assets/blog/Energy Blog Graphics/ballramp photogate v2.mp4" | absolute_url }}" type="video/mp4">
 </video>
 
 
@@ -89,11 +90,8 @@ All labs should yield meaningful information, and this new information should al
 
 2) In addition to the graph between the square of the final velocity and the starting height, I also graphed the final velocity and the square root of the starting height. However, I noticed a discrepancy between the experimental value of acceleration due to gravity when using the two different equations.
 
-<span class="image fit"><img class="size-full wp-image-162" src="{{ "/media/Energy Blog Graphics/ballramp2.JPG" | absolute_url }}" /> 
-<i>
-    Figure 2: Scatter plot graph of final velocity compared to the square root of the starting height of the marble. The trend line is linear, with an equation of v = 4.97h<sup>1/2</sup> - 0.23.
-</i>
-</span>
+![Scatter Plot](/assets/blog/Energy Blog Graphics/ballramp2.JPG){: .image-center .image-8}
+*Figure 2: Scatter plot graph of final velocity compared to the square root of the starting height of the marble. The trend line is linear, with an equation of v = 4.97h<sup>1/2</sup> - 0.23.*{: .caption-center}
 
 Finding experimental value of acceleration due to gravity using equation from figure 2:
 
@@ -116,8 +114,10 @@ Why are these two values different? Was using the equation from figure 1 to find
 <br>
 Something I found intriguing while conducting this experiment was how the Labquest photogates worked. They shoot a beam between their two posts! When an object passes through the beam, the Labquest calculates the velocity with the time the object blocked the beam and the diameter of the object. It’s awesome how our technology is fast enough to be able to calculate values using only a very short moment of time!
 
-## After Unit Reflection
+<br>
 
-### Solving Energy Transformation Problems
+#### After Unit Reflection
+
+##### Solving Energy Transformation Problems
 
 In this blog post, I solved the main energy transformation problem of the lab: converting gravitational potential energy into kinetic energy! I used the law of conservation of energy to relate the initial height of the ramp to the square of the final velocity of the marble. With the data from the experiment, I solved for the experimental value of gravity in the energy transformation by substituting the slope of the graph as the ratio between the square of the velocity and the height. I also did the same thing again but related the square root of the initial height of the ramp to the final velocity of the marble.

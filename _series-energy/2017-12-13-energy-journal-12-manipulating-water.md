@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  Energy Journal 12 - Manipulating Water
+title: Energy Journal 12 - Manipulating Water 
+slug: energy-journal-12-manipulating-water
 date:   2017-12-13
-excerpt: "Boiling water with ice?"
-image: "/media/Energy Blog Graphics/water boiling ice.JPG"
-category: "energy-e-portfolio"
+description: "Boiling water with ice?"
+image: "/assets/blog/Energy Blog Graphics/water boiling ice.JPG"
+bgcolor: "A5D6A7"
 ---
 
 ## Manipulating Water
 
 <video controls width="100%" height="auto">
-    <source src="{{ "/media/Energy Blog Graphics/water boiling ice.mp4" | absolute_url }}" type="video/mp4">
+    <source src="{{ "/assets/blog/Energy Blog Graphics/water boiling ice.mp4" | absolute_url }}" type="video/mp4">
 </video>
 
 Today, we explored some crazy ways to change how water works!
@@ -25,11 +26,8 @@ By cooling the gas at the top of the beaker, we are able to lower the temperatur
 
 3) The freezing point and boiling point of substances depends on the pressure. At normal atmospheric pressure (atm), the freezing point and boiling point of water are at 0 ℃ and 100 ℃ respectively. In particular, when the pressure decreases, the boiling point of water also decreases. This is why by cooling the water vapour within the beaker, the previously heated water is able to vapourize and boil.
 
-<span class="image fit"><img class="size-full wp-image-162" src="{{ "/media/Energy Blog Graphics/water phase graph.png" | absolute_url }}" /> 
-<i>
-Graph of how the state of water is determined based on varying temperature and pressure!
-</i>
-</span>
+![Water Phase Graph](/assets/blog/Energy Blog Graphics/water phase graph.png){: .image-center .image-7}
+*Graph of how the state of water is determined based on varying temperature and pressure!*
 
 Here are a few questions that I have:
 

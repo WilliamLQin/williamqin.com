@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Energy Journal 11 - Latent Heat
+title: Energy Journal 11 - Latent Heat 
+slug: energy-journal-11-latent-heat
 date:   2017-12-12
-excerpt: "Metal plates melt ice faster than plastic plates!"
-image: "/media/Energy Blog Graphics/latent heat ice.jpg"
-category: "energy-e-portfolio"
+description: "Metal plates melt ice faster than plastic plates!"
+image: "/assets/blog/Energy Blog Graphics/latent heat ice.jpg"
+bgcolor: "A5D6A7"
 ---
 
 ## Latent Heat
@@ -17,11 +18,8 @@ Just like with specific heat, we conducted an experiment with a metal plate and 
 
 2) As latent heat is energy and this energy must be transferred in order to change a state, when an object reaches the <strong>fusion</strong> (freezing or melting) point or the <strong>vaporization</strong> (boiling or condensation) point the energy that goes into changing the temperature temporarily goes to changing the state of the object, stopping the temperature of the object from changing. In the case of water, the graph of the temperature of ice (water in solid state) melting into water (in liquid state) would look like this:
 
-<span class="image fit"><img class="size-full wp-image-162" src="{{ "/media/Energy Blog Graphics/uw plasma ball.jpg" | absolute_url }}" /> 
-<i>
-Notice how the slope of the graph goes to zero at the freezing point of water! Latent heat is stopping the external energy from raising the temperature.
-</i>
-</span>
+![Temperature Graph](/assets/blog/Energy Blog Graphics/latent heat graph.jpg){: .image-center .image-7}
+*Notice how the slope of the graph goes to zero at the freezing point of water! Latent heat is stopping the external energy from raising the temperature.*
 
 3) Each object has their own specific latent heat, which helps us find the internal potential energy of an object. Since specific latent heat describes the ratio of potential energy to a kilogram of matter, it is expressed in terms of J kg<sup>-1</sup>. Then, to find the potential energy, we would just multiply the specific latent heat by the amount of matter, the mass:
 
@@ -38,9 +36,11 @@ Here are my questions on the topic of latent heat:
 <br>
 An intriguing idea that I discovered today was that while some materials may have a higher specific heat capacity than others, what matters most in being faster in changing the thermal energy of an object depends more on your power rather than your potential energy. This is why the metal disk was able to melt the ice faster, despite the plastic having slightly more specific heat capacity.
 
-## After Unit Reflection
+<br>
 
-### Understanding Energy - Thermal Energy
+#### After Unit Reflection
+
+##### Understanding Energy - Thermal Energy
 
 In this blog post and my <a href="http://blog.williamqin.com/2017/12/energy-journal-9-specific-heat/" target="_blank">previous blog post</a> on specific heat, I gained an understanding of the two forms of energy that make up thermal energy: internal kinetic energy and latent heat. I made a key observation that thermal energy, the transfer of energy from a hotter body to a colder body occurs because of world’s natural tendency towards increasing entropy, or disorder (2nd law of thermodynamics). 
 

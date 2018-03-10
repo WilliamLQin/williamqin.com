@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Energy Journal 3 - Mechanical Energy
+title: Energy Journal 3 - Mechanical Energy 
+slug: energy-journal-3-mechanical-energy
 date:   2017-11-22
-excerpt: "Dropping tennis balls to observe the transfer of energy!"
-image: "/media/Energy Blog Graphics/tennis ball drop.JPG"
-category: "energy-e-portfolio"
+description: "Dropping tennis balls to observe the transfer of energy!"
+image: "/assets/blog/Energy Blog Graphics/tennis ball drop.JPG"
+bgcolor: "A5D6A7"
 ---
 
 ## Mechanical Energy
@@ -32,16 +33,18 @@ Although this all makes sense, I still have a few questions.
 <br>
 After doing calculations between velocity with kinetic energy and gravitational potential energy, something that’s very intriguing is how when working with just mechanical energy within a system, the mass of the object does not affect velocity at all! There is no m (mass) in the equation v<sup>2</sup> = 2gΔh.
 
-## After Unit Reflection
+<br>
 
-### Understanding Energy
+#### After Unit Reflection
+
+##### Understanding Energy
 
 In this blog post and my previous blog post on introducing energy, I demonstrated my knowledge of the two forms of mechanical energy: gravitational potential energy and kinetic energy!
 
-<em>Gravitational Potential Energy</em>
+*Gravitational Potential Energy*
 
 I learned how to derive and use the equation for gravitational potential energy by using previously learned equations for work and force. I noted that gravitational potential energy is always calculated relative to a reference point, and so the equation E<sub>g</sub> = mgΔh should be used. I also learned that gravitational potential energy can transform into kinetic energy by falling down and gaining velocity and that we can find how much gravitational potential energy is transformed into kinetic energy using the law of conservation of energy!
 
-<em>Kinetic Energy</em>
+*Kinetic Energy*
 
 As for the other part of mechanical energy, I learned the equation for kinetic energy, E<sub>k</sub> = ½mv<sup>2</sup>. I made an important observation that despite the equation using “velocity”, the magnitude of velocity, speed, should be used instead for the equation. In the same vein as converting gravitational potential energy into kinetic energy, I found that the reverse can happen as well; kinetic energy can move an object upwards, giving it the potential to fall back down.

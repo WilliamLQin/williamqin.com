@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  Energy Journal 2 - Introducing Energy!
+title: Energy Journal 2 - Introducing Energy! 
+slug: energy-journal-2-introducing-energy
 date:   2017-11-21
-excerpt: "Investigating energy flow with tennis balls and ramps."
-image: "/media/Energy Blog Graphics/energy ball roll.JPG"
-category: "energy-e-portfolio"
+description: "Investigating energy flow with tennis balls and ramps."
+image: "/assets/blog/Energy Blog Graphics/energy ball roll.JPG"
+bgcolor: "A5D6A7"
 ---
 
 ## Introducing Energy!
 
 <video controls width="100%" height="auto">
-    <source src="{{ "/media/Energy Blog Graphics/energy ball roll.mp4" | absolute_url }}" type="video/mp4">
+    <source src="{{ "/assets/blog/Energy Blog Graphics/energy ball roll.mp4" | absolute_url }}" type="video/mp4">
 </video>
 
 Today, we scratched the surface of how energy flows in our world.
@@ -36,9 +37,10 @@ Something very intriguing is how crazy the derived SI units can get. With energy
 
 We can get more crazy than that. Power is measured in watts; a watt is a joule divided by a second: kgm2s-3. Electrical potential energy is measured in volts; a volt is a watt divided by an ampere: kgm2s-3A-1. Resistance is measured in ohms; an ohm is a volt divided by an ampere: kgm2s-3A-2, and so we get one of the most crazy SI units expressed in base SI units. Imagine having to say “kilograms metres squared per second cubed per ampere squared” just to express the resistance of an electrical conductor!
 
+<br>
 
-## After Unit Reflection
+#### After Unit Reflection
 
-### Investigation of Energy Transformations
+##### Investigation of Energy Transformations
 
 In this blog post, I did a brief investigation into the law of conservation of energy and energy transformations between mechanical forms of energy. I learned about the law of conservation of energy, which states that energy can never be created or destroyed, only moved around and transformed. I also learned how energy can be transformed from one type to another, specifically how kinetic energy transforms into gravitational potential energy (and vice versa). Kinetic energy transforms into gravitational potential energy by moving the object upwards. This increased height gives the object the potential to fall back down and gain kinetic energy.
