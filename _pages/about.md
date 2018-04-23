@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: Learn all about me!
-bgcolor: "F48FB1"
+bgcolor: "9FA8DA"
 ---
 
 ![It's me in a suit!](/assets/img/william3-min.jpg){: .image-6}
