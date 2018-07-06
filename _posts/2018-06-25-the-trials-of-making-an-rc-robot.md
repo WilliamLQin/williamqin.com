@@ -40,7 +40,7 @@ Here are some diagrams for how the robot's circuit was constructed:
 
 <br>
 
-As for the robot's programming (my specialty!), feel free to check it out at my GitHub repo!
+As for the robot's programming (my specialty!), feel free to check it out at my [GitHub repo](https://github.com/WilliamLQin/Raspberry-Pi-Robot)!
 
 #### Looking Back
 
