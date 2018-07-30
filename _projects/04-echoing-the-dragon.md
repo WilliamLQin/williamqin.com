@@ -2,7 +2,7 @@
 layout: project
 title: Echoing the Dragon
 slug: echoingthedragon
-description: Virtual reality simulator for basic CPR!
+description: Interface with a Dragonboard 410c with Amazon Alexa!
 image: /assets/img/squares/echoingthedragon.jpg
 bgcolor: "9575CD"
 timeline: Feb. 3-4, 2018
