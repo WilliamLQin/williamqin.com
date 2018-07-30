@@ -5,7 +5,7 @@ slug: stux
 description: iOS block stacking and balancing game!
 image: /assets/img/squares/stux.jpg
 bgcolor: "9575CD"
-timeline: Mar. 2015 - Oct. 2015
+timeline: Mar. - Oct. 2015
 ---
 
 # Stux
