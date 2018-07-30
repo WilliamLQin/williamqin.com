@@ -42,6 +42,8 @@ Here are some diagrams for how the robot's circuit was constructed:
 
 As for the robot's programming (my specialty!), feel free to check it out at my [GitHub repo](https://github.com/WilliamLQin/Raspberry-Pi-Robot)!
 
+<br>
+
 #### Looking Back
 
 Reflecting on this project, overall, it turned out very well. We were able to get Bluetooth running seamlessly with fast response times from the robot, infrared decoding and processing, and RGB LED controls all at the same time with threading. By ensuring that the batteries were in top shape and by using speed control, we could get the robot to move fairly straight and pretty quickly. The LEDs looked beautiful and suited the robot’s movements perfectly. The construction of the circuit worked as intended. The robot was built without any major issues and was the perfectly sized to fit all components. It also worked on its own without needing a Wi-Fi connection for using SSH to start up the program.

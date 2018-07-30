@@ -72,11 +72,6 @@ body {
     padding: 2rem;
 }
 
-.card-page {
-    max-width: 57rem;
-    padding: 5rem 4rem;
-}
-
 .card-block {
     max-width: 57rem;
     padding: 2rem;
@@ -93,15 +88,39 @@ body {
     padding: 1rem;
 }
 
+
+.card-page {
+    max-width: 57rem;
+    padding: 2.5rem 2rem;
+}
+
 .card-project {
     max-width: 57rem;
-    padding: 4rem 4rem 5rem;
+    padding: 1.5rem 2rem 2.5rem;
 }
 
 .card-post {
     max-width: 57rem;
-    padding: 4rem 4rem 5rem;
+    padding: 2.5rem 2rem 2rem;
 }
+
+@media(min-width: 768px) {
+    .card-page {
+        max-width: 57rem;
+        padding: 5rem 4rem;
+    }
+    
+    .card-project {
+        max-width: 57rem;
+        padding: 4rem 4rem 5rem;
+    }
+    
+    .card-post {
+        max-width: 57rem;
+        padding: 4rem 4rem 5rem;
+    }
+}
+
 
 nav {
     padding-top: 2rem;
@@ -172,6 +191,7 @@ p a:active {
 
 .google-play img {
     max-width: 400px;
+    width: 100%;
 }
 
 .video-container {
