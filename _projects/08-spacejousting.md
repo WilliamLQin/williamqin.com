@@ -5,6 +5,7 @@ slug: spacejousting
 description: Strike your opponent at their weak spot in this two-player game!
 image: /assets/img/squares/spacejousting.jpg
 bgcolor: "9575CD"
+timeline: December 16, 2017
 ---
 
 # Space Jousting
@@ -28,6 +29,3 @@ Play Space Jousting now!
 [![Space Jousting Windows](/assets/icons/winicon.png)](https://cdn.williamqin.com/Space Jousting/SpaceJousting_win.zip){: .download-icon}
 [![Space Jousting Mac](/assets/icons/macicon.png)](https://cdn.williamqin.com/Space Jousting/SpaceJousting_mac.zip){: .download-icon}
 [![Space Jousting Linux](/assets/icons/linicon.png)](https://cdn.williamqin.com/Space Jousting/SpaceJousting_linux.zip){: .download-icon}
-
-
-Project created December 16, 2017

@@ -5,6 +5,7 @@ slug: thinktank
 description: Control a tank with your brain by using a Muse headband!
 image: /assets/img/squares/thinktank.jpg
 bgcolor: "9575CD"
+timeline: November 3-5, 2017
 ---
 
 # Think Tank
@@ -28,7 +29,4 @@ Our team won Top 6 Overall Hack, Best Domain Name, and the Wolfram One Award! <b
 
 Check out the project page and learn about how it was created at [tanksforplaying.net](http://tanksforplaying.net){:target="_blank"}.  
 Read my [blog post](/2017/11/think-tank/) about the experience at the event!  
-Head to my [GitHub repository](https://github.com/WilliamLQin/Think-Tank){:target="_blank"}
-
-
-Project created November 5, 2017
+Head to my [GitHub repository](https://github.com/WilliamLQin/Think-Tank){:target="_blank"}!

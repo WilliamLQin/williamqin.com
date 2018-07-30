@@ -5,6 +5,7 @@ slug: fihgt
 description: A wacky and fun fighting game for two players!
 image: /assets/img/squares/fihgt.jpg
 bgcolor: "9575CD"
+timeline: December 2016 - February 2017
 ---
 
 # Fihgt
@@ -27,6 +28,3 @@ Play Fihgt now!
 [![Fihgt Windows](/assets/icons/winicon.png)](https://cdn.williamqin.com/Fihgt/Fihgt_win.zip){: .download-icon}
 [![Fihgt Mac](/assets/icons/macicon.png)](https://cdn.williamqin.com/Fihgt/Fihgt_mac.zip){: .download-icon}
 [![Fihgt Linux](/assets/icons/linicon.png)](https://cdn.williamqin.com/Fihgt/Fihgt_linux.zip){: .download-icon}
-
-
-Game created February 2, 2017

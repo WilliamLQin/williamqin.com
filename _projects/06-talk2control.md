@@ -5,6 +5,7 @@ slug: talk2control
 description: A web application that controls your screen using voice recognition!
 image: /assets/img/squares/talk2control.jpg
 bgcolor: "9575CD"
+timeline: December 2, 2017
 ---
 
 # Talk 2 Control
@@ -27,6 +28,3 @@ Check out the project page and learn about how it was created at [Devpost](https
 View the project at [talk2control.tech](http://talk2control.tech){:target="_blank"}.
 Read my [blog post](/2017/12/talk-to-control-tech) about the experience at the event.  
 Head to my [GitHub repository](https://github.com/WilliamLQin/talk2control){:target="_blank"}.
-
-
-Project created December 2, 2017

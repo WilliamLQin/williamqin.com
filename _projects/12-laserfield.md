@@ -5,6 +5,7 @@ slug: laserfield
 description: iOS laser bounding and survival game!
 image: /assets/img/squares/laserfield.jpg
 bgcolor: "9575CD"
+timeline: January 2014 - December 2014
 ---
 
 # Laser Field
@@ -23,6 +24,3 @@ Laser Field was my very first programming project that I launched on the iOS App
 It was downloaded over 150 times, and made over 350 ad impressions!  
 
 Unfortunately, Laser Field can't be found on the App Store anymore.  
-
-
-Game launched December 20, 2014

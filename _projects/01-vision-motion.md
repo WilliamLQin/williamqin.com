@@ -5,6 +5,7 @@ slug: visionmotion
 description: Motion sensor mobile app that uses the camera to track an object and create a graph.
 image: /assets/img/squares/visionmotion.jpg
 bgcolor: "9575CD"
+timeline: October 2017 - January 2018
 ---
 
 # Vision Motion
@@ -30,9 +31,6 @@ It has been used in physics classrooms to enhance learning!
 Check out the project at [visionmotion.tech](http://visionmotion.tech){:target="_blank"}!  
 Learn more about how this project was created at [Devpost](https://devpost.com/software/visionmotion){:target="_blank"}!    
 Head to my GitHub [repository](https://github.com/WilliamLQin/Vision-Motion){:target="_blank"}!  
-
-
-Last updated January 30, 2017
 
 [![Google Play Store](/assets/icons/googleplay.png)](https://play.google.com/store/apps/details?id=com.williamqin.visionmotion){:target="_blank" .google-play}
 

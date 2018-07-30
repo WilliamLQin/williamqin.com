@@ -5,6 +5,7 @@ slug: cprvr
 description: Virtual reality simulator for basic CPR!
 image: /assets/img/squares/cprvr.jpg
 bgcolor: "9575CD"
+timeline: January 20-22, 2017
 ---
 
 # CPR-VR
@@ -25,6 +26,3 @@ Our team of four won Top 10 Overall Hack!
 
 Learn more about this project at [HackerEarth](https://www.hackerearth.com/fr/sprints/uofthacks-iv/dashboard/UofTTeam1/submission/){:target="_blank"}.  
 Head to my [GitHub repository](https://github.com/WilliamLQin/CPR-VR){:target="_blank"}.
-
-
-Project created January 21, 2017

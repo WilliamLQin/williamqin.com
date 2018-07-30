@@ -5,6 +5,7 @@ slug: lightboard
 description: One of the major projects I worked on at D&R Electronics!
 image: /assets/img/squares/lightboard.jpg
 bgcolor: "9575CD"
+timeline: July - August 2017
 ---
 
 # Lightboard Creator
@@ -19,6 +20,3 @@ The project was created in Visuasl Studio and programmed in C#.
 
 Lightboard Creator was one of the major projects that I worked on as a software developer intern at D&amp;R Electronics Co. Ltd.  
 It is now being used to rapidly create and deploy various messages for the company's lightboards.  
-
-
-Project created August 4, 2017

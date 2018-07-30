@@ -5,6 +5,7 @@ slug: stux
 description: iOS block stacking and balancing game!
 image: /assets/img/squares/stux.jpg
 bgcolor: "9575CD"
+timeline: March 2015 - October 2015
 ---
 
 # Stux
@@ -23,6 +24,3 @@ Stux was my second programming project that I launched on the iOS App Store!
 It was downloaded over 300 times, and made over 1500 ad impressions!  
 
 Unfortunately, Stux can't be found on the App Store anymore.  
-
-
-Game launched October 23, 2015
