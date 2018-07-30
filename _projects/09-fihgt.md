@@ -5,7 +5,7 @@ slug: fihgt
 description: A wacky and fun fighting game for two players!
 image: /assets/img/squares/fihgt.jpg
 bgcolor: "9575CD"
-timeline: December 2016 - February 2017
+timeline: Dec. 2016 - Feb. 2017
 ---
 
 # Fihgt

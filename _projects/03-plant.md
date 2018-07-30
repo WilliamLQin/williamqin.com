@@ -5,7 +5,7 @@ slug: plant
 description: Rapid tower defense game with freedom of placement and movement. Currently in development!
 image: /assets/img/squares/plant.jpg
 bgcolor: "9575CD"
-timeline: June 2017 - present
+timeline: Jun. 2017 - present
 ---
 
 # Plant

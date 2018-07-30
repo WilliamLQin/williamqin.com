@@ -5,7 +5,7 @@ slug: visionmotion
 description: Motion sensor mobile app that uses the camera to track an object and create a graph.
 image: /assets/img/squares/visionmotion.jpg
 bgcolor: "9575CD"
-timeline: October 2017 - January 2018
+timeline: Oct. 2017 - Jan. 2018
 ---
 
 # Vision Motion

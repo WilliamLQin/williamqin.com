@@ -5,7 +5,7 @@ slug: popmidi
 description: Pop can music box that can play any MIDI file!
 image: /assets/img/squares/popmidi.jpg
 bgcolor: "9575CD"
-timeline: December 3, 2016
+timeline: Dec. 3, 2016
 ---
 
 # Pop MIDI

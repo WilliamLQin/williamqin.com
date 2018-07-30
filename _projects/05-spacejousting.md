@@ -5,7 +5,7 @@ slug: spacejousting
 description: Strike your opponent at their weak spot in this two-player game!
 image: /assets/img/squares/spacejousting.jpg
 bgcolor: "9575CD"
-timeline: December 16, 2017
+timeline: Dec. 16, 2017
 ---
 
 # Space Jousting

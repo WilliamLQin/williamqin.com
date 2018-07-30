@@ -5,7 +5,7 @@ slug: cprvr
 description: Virtual reality simulator for basic CPR!
 image: /assets/img/squares/cprvr.jpg
 bgcolor: "9575CD"
-timeline: January 20-22, 2017
+timeline: Jan. 20-22, 2017
 ---
 
 # CPR-VR

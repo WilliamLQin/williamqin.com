@@ -5,7 +5,7 @@ slug: talk2control
 description: A web application that controls your screen using voice recognition!
 image: /assets/img/squares/talk2control.jpg
 bgcolor: "9575CD"
-timeline: December 2, 2017
+timeline: Dec. 2, 2017
 ---
 
 # Talk 2 Control

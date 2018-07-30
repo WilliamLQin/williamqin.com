@@ -5,7 +5,7 @@ slug: echoingthedragon
 description: Virtual reality simulator for basic CPR!
 image: /assets/img/squares/echoingthedragon.jpg
 bgcolor: "9575CD"
-timeline: February 3-4, 2018
+timeline: Feb. 3-4, 2018
 ---
 
 # Echoing the Dragon

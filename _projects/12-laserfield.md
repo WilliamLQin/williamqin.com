@@ -5,7 +5,7 @@ slug: laserfield
 description: iOS laser bounding and survival game!
 image: /assets/img/squares/laserfield.jpg
 bgcolor: "9575CD"
-timeline: January 2014 - December 2014
+timeline: Jan. 2014 - Dec. 2014
 ---
 
 # Laser Field

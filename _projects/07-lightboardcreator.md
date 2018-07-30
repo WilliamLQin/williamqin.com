@@ -5,7 +5,7 @@ slug: lightboard
 description: One of the major projects I worked on at D&R Electronics!
 image: /assets/img/squares/lightboard.jpg
 bgcolor: "9575CD"
-timeline: July - August 2017
+timeline: Jul. - Aug. 2017
 ---
 
 # Lightboard Creator
