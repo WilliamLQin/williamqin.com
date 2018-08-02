@@ -24,7 +24,7 @@ Talk 2 Control was created at Local Hack Day at Shopify Toronto, a 12-hour hacka
 Our team won 1<sup>st</sup> Place!  
 
 
-Check out the project page and learn about how it was created at [Devpost](https://devpost.com/software/talk2control-9vzc1s){:target="_blank"}!
-View the project at [talk2control.tech](http://talk2control.tech){:target="_blank"}.
+Check out the project page and learn about how it was created at [Devpost](https://devpost.com/software/talk2control-9vzc1s){:target="_blank"}!  
+View the project at [talk2control.tech](http://talk2control.tech){:target="_blank"}.  
 Read my [blog post](/2017/12/talk-to-control-tech) about the experience at the event.  
 Head to my [GitHub repository](https://github.com/WilliamLQin/talk2control){:target="_blank"}.
