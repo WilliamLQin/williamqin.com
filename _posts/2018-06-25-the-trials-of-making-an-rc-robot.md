@@ -4,7 +4,7 @@ title: The Trials of Making an RC Robot
 date: 2018-06-25
 description: "There was so much hope for features, but some just couldn't make it."
 image: "/assets/blog/rcrobot0.jpg"
-bgcolor: "9575CD"
+bgcolor: "E57373"
 ---
 
 # Raspberry Pi Robot

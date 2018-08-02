@@ -4,7 +4,7 @@ title:  Think Tank
 date:   2017-11-07
 description: "Train your concentration and lose yourself in this immersive telepathic co-op tank game!"
 image: "/assets/blog/ThinkTank1.png"
-bgcolor: "FFAB91"
+bgcolor: "E57373"
 ---
 
 ## Think Tank

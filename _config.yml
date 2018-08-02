@@ -28,6 +28,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  activities:
+    output: true
+    permalink: /:collection/:title/
   pages:
     output: true
     permalink: /:title/

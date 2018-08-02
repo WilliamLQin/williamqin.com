@@ -4,7 +4,7 @@ title:  Talk to Control Tech
 date:   2017-12-04
 description: "Voice activated keyboard input web application!"
 image: "/assets/blog/talk2control1.JPG"
-bgcolor: "FFAB91"
+bgcolor: "E57373"
 ---
 
 ## Talk to Control Tech

@@ -4,7 +4,7 @@ title:  Energy Journal
 date:   2017-12-16
 description: "Journal of my learning in the energy unit of my physics class."
 image: "/assets/blog/Energy Blog Graphics/uw superconductor.jpg"
-bgcolor: "A5D6A7"
+bgcolor: "E57373"
 ---
 
 For my physics class, I kept a journal of the energy unit as my final unit project!  
