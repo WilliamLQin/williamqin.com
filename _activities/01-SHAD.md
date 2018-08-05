@@ -38,7 +38,7 @@ As for workshops, I was a part of the SHAD Students on the Beamline project grou
 
 Participants in the SHAD program also partake in the SHAD Innovation Challenge, where they work on a project to address a problem within a certain theme. This year, the theme was resilience in natural disasters, and my project group created EvacKit, a wildfire-specific emergency kit!
 
-You can view our technical summary and business plan in our [final report](/assets/docs/EvacKit-Final-Report.pdf).  
+You can view our technical summary and business plan in our [final report](/assets/docs/EvacKit-Final-Report.pdf){:target="_blank"}.  
 
 <br>
 <br>
