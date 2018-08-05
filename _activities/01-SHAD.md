@@ -3,17 +3,19 @@ layout: project
 title: SHAD
 slug: shad
 description: I am proud to be a SHAD Fellow, as an alumni of SHAD 2018 at the University of Saskatchewan!
-image: /assets/img/squares/stux.jpg
+image: /assets/img/squares/shad.jpg
 bgcolor: "64B5F6"
 ---
 
-# SHAD
+![SHAD!](/assets/img/shad1.png){: .image-center .image-6}
+
+<br>
 
 "SHAD is an award-winning enrichment and entrepreneurship program and network that empowers exceptional high school students – at a pivotal point in their education – to recognize their own capabilities and envision their extraordinary potential as tomorrow’s leaders and change makers." [Read more](https://www.shad.ca/About.htm){:target="_blank"}
 
 For the month of July (2018), I had the honour of attending the SHAD program at the University of Saskatchewan! It was an amazing experience that expanded my view of different perspectives by putting me in new situations and by giving me a chance to encounter new things through lectures and workshops!
 
-![Orbital Model](/assets/img/orbitalmodel.png){: .image-right .image-5}
+![Orbital Model](/assets/img/shad2.png){: .image-right .image-5}
 *This is how Earth's orbit would change if the mass of Jupiter increased by two magnitudes! Note: orbital model has only Earth, Sun, and Jupiter. The color gradient changes over time.*{: .caption-right .caption-5}
 
 <br>
@@ -31,9 +33,17 @@ As for workshops, I was a part of the SHAD Students on the Beamline project grou
 
 <br>
 
-![Evacuation Kit](/assets/img/shadproject1.jpg){: .image-left .image-5}
+![Evacuation Kit](/assets/img/shad3.jpg){: .image-left .image-5}
 *Illustration of our evacuation kit!*{: .caption-left .caption-5}
 
 Participants in the SHAD program also partake in the SHAD Innovation Challenge, where they work on a project to address a problem within a certain theme. This year, the theme was resilience in natural disasters, and my project group created EvacKit, a wildfire-specific emergency kit!
 
-You can view our technical summary and business plan in our [final report]().
+You can view our technical summary and business plan in our [final report](/assets/docs/EvacKit-Final-Report.pdf).  
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![All SHADs](/assets/img/shad4.jpg){: .image-center .image-12}
