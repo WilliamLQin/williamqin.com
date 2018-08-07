@@ -4,7 +4,7 @@ title: Website Version 3 Launch
 date: 2018-03-10
 description: "This is website version 3.0! Check out how my website has evolved over the past few years!"
 image: "/assets/img/squares/blog.jpg"
-bgcolor: "9575CD"
+bgcolor: "E57373"
 ---
 
 # Personal Website

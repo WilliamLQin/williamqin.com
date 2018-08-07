@@ -27,6 +27,11 @@
             .row {
                 line-height: 2;
             }
+
+            div.navlink {
+                padding: 0px;
+            }
+
         </style>
     </head>
     <body>
@@ -41,35 +46,40 @@
                     William Qin
                 </h1>
                 <p class="light">
-                    student, developer, and creator
+                    student, developer, &amp; creator
                 </p>
                 <h3 class="title social-btn" style="font-size: 30px;">
                     {% include social-links.html %}
                 </h3>
                 <hr>
                 <div class="row">
-                    <div class="col-sm-2"></div>
-                    <div class="col-sm-2">
+                    <div class="col-sm-1"></div>
+                    <div class="col-sm-2 navlink">
                         <a href="/about">
                             About
                         </a>
                     </div>
-                    <div class="col-sm-2">
+                    <div class="col-sm-2 navlink">
                         <a href="/blog">
                             Blog
                         </a>
                     </div>
-                    <div class="col-sm-2">
+                    <div class="col-sm-2 navlink">
                         <a href="/projects">
                             Projects
                         </a>
                     </div>
-                    <div class="col-sm-2">
+                    <div class="col-sm-2 navlink">
+                        <a href="/activities">
+                            Activities
+                        </a>
+                    </div>
+                    <div class="col-sm-2 navlink">
                         <a href="/{{ site.resume }}">
                             Resume
                         </a>
                     </div>
-                    <div class="col-sm-2"></div>
+                    <div class="col-sm-1"></div>
                 </div>
             </div>
         </div>

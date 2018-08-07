@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color: #{{ page.bgcolor }}">
+
+    <style>
+        div.activity-main {
+            margin: auto; 
+            max-width: 925px;
+            padding: 0;
+            display: flex;
+        }
+        div.activity-section {
+            padding: 0;
+        }
+        .max-height {
+            height: 100%;
+        }
+        .fill-link h1 {
+            margin: 0;
+            padding: 0.67em;
+        }
+        .fill-link p {
+            margin: 0;
+            padding-bottom: 0.5rem;
+        }
+    </style>
+
+    <head>
+        {% include head.html %}
+    </head>
+    <body>
+        {% include nav.html %}
+
+        <div class="row activity-main">
+
+            {% for activity in site.activities %}
+
+            {% assign width = 4 %}
+
+            {% if forloop.index == 1 or forloop.index == 2  %}
+            {% assign width = 6 %}
+            {% endif %}
+
+            <div class="activity-section col-md-{{ width }}">
+                <div class="holder max-height">
+                    <div class="container card card-block animated fadeIn max-height">
+                        <a class="fill-link" href="{{ activity.url | absolute_url }}">
+                            <div class="image"><img src="{{ activity.image }}" /></div>
+                            <h1>{{ activity.title }}</h1>
+                            <p>{{ activity.description }}</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+    
+        </div>
+        
+
+        {% include footer.html %}
+
+        {% include scripts.html %}
+    </body>
+
+</html>
