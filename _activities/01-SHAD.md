@@ -29,7 +29,7 @@ Download my source code at my [GitHub repository](https://github.com/WilliamLQin
 <br>
 <br>
 
-As for workshops, I was a part of the SHAD Students on the Beamline project group working at the Canadian Light Source, the only synchrotron (particle accelerator) in Canada! You can view my experience of the program and the results of our research on my [project page](/projects/shad-sotb).
+As for workshops, I was a part of the SHAD Students on the Beamline project group working at the Canadian Light Source, the only synchrotron (particle accelerator) in Canada! You can view my experience of the program and the results of our research on my [project page](/projects/shadsotb).
 
 <br>
 
