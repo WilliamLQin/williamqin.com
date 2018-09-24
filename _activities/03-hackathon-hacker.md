@@ -11,7 +11,16 @@ bgcolor: "64B5F6"
 
 I've attended several hackathons to create cool projects!
 
-Since I started in December 2016, I've been a part of 7 hackathons!
+Since I started in December 2016, I've been a part of 9 hackathons!
+
+**Hack the North** - September 14-16, 2018
+* Waterloo, Ontario, Canada at University of Waterloo Engineering
+* Created [MAGNET](/projects/magnet), a multi-purpose projectile catching device
+
+**Hack the 6ix** - August 24-26, 2018
+* Toronto, Ontario, Canada at Top Hat HQ
+* Created [Disco Alarm](/projects/discoalarm), a fully customizable smart light strip meant for waking you up naturally with light
+* Won **Finalist** Hack
 
 **Hack the Hammer** - February 3-4, 2018
 * Hamilton, Ontario, Canada at McMaster Innovation Park
