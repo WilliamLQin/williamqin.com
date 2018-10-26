@@ -16,7 +16,7 @@ I am a high school student, developer, and creator! Currently, I am experimentin
 
 ![It's me going hiking!](/assets/img/william1-min.jpg){: .image-5 .image-left}
 
-Since I was 9 years old, I have been applying my programming skills to develop interesting games, create problem solving applications, prototype hardware, and design websites. The very first programming language I learned was ActionScript, a language used in Macromedia Flash (today, it is known as Adobe Animate). My early journey through learning programming languages was a rough and unguided one—I only had imperfect examples to learn from! Despite all odds, I made exciting games that I brought to school for my peers and I to play! 
+Since I was 9 years old, I have been applying my programming skills to develop interesting games, create problem solving applications, prototype hardware, and design websites. The very first programming language I learned was ActionScript, a language used in Macromedia Flash (today, it is known as Adobe Animate). My early journey through learning programming languages was a rough and unguided one—I only had imperfect examples to learn from! Despite all odds, I made exciting games that I brought to school for my peers and me to play! 
 
 <br>
 
