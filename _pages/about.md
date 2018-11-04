@@ -36,7 +36,7 @@ Today, I use and work with many different programming languages and tools! So fa
 <br>
 <br>
 
-![It's me by a lake!](/assets/img/william2-min.jpg){: .image-6 .image-right}
+![It's me snowboarding!](/assets/img/william5.jpg){: .image-6 .image-right}
 
 
 # </>

@@ -27,6 +27,6 @@ Think Tank was created at Electric City Hacks 2, a 36-hour hackathon at Trent Un
 Our team won Top 6 Overall Hack, Best Domain Name, and the Wolfram One Award! <br>
 
 
-Check out the project page and learn about how it was created at [tanksforplaying.net](http://tanksforplaying.net){:target="_blank"}.  
+Check out the project page and learn about how it was created at [Devpost](https://devpost.com/software/think-tank-evr5t3){:target="_blank"}.  
 Read my [blog post](/2017/11/think-tank/) about the experience at the event!  
 Head to my [GitHub repository](https://github.com/WilliamLQin/Think-Tank){:target="_blank"}!
