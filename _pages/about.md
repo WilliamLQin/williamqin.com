@@ -10,28 +10,23 @@ bgcolor: "9FA8DA"
 
 # Hi, I'm William Qin
   
-I am a high school student, developer, and creator! Currently, I am experimenting with new technologies and learning new skills as I pursue my passion for technology and creation. I am always eager to learn new things, take opportunities to grow, and tackle difficult problems.
-        
-<br>
-
-![It's me going hiking!](/assets/img/william1-min.jpg){: .image-5 .image-left}
-
-Since I was 9 years old, I have been applying my programming skills to develop interesting games, create problem solving applications, prototype hardware, and design websites. The very first programming language I learned was ActionScript, a language used in Macromedia Flash (today, it is known as Adobe Animate). My early journey through learning programming languages was a rough and unguided one—I only had imperfect examples to learn from! Despite all odds, I made exciting games that I brought to school for my peers and me to play! 
+I am a student, developer, and creator! Right now, I am studying software engineering at the University of Waterloo and experimenting with new technologies to learn new skills as I pursue my passion for technology and creation. I love to learn, take opportunities to grow, and tackle difficult problems whenever possible.
 
 <br>
 
 ![It's me at a hackathon!](/assets/img/william6-min.jpg){: .image-4 .image-right}
 
-Today, I use and work with many different programming languages and tools! So far, I have...
+Currently, I use and work with many different programming languages and tools! So far, I have...
 
-* ...made games in Unity with C#
-* ...created websites and web applications using a combination of Jekyll (Ruby), Markdown, Angular, HTML, CSS, Bootstrap, jQuery, Amazon Web Services, TypeScript and JavaScript
-* ...developed Android applications in Android Studio with Java
-* ...processed data using Python
-* ...tracked objects with computer vision and artificial intelligence
-* ...programmed robots in Eclipse with Java
-* ...created virtual reality experiences using Google Cardboard
-* ...made smart (IoT) devices with Arduino
+* ...made [games](/projects/fihgt) in Unity with C#
+* ...used your [brain waves](/projects/thinktank) from a Muse headband to play a game in Unity
+* ...created websites (like this one!) and [web applications](/projects/talk2control) using a combination of web tools
+* ...developed [Android applications](/projects/visionmotion) in Android Studio with Java
+* ...tracked objects with [computer vision](/projects/magnet) (OpenCV)
+* ...programmed [autonomous robots](/projects/robotics) in Eclipse with Java
+* ...created [virtual reality experiences](/projects/cprvr) using Google Cardboard
+* ...made [smart devices](/projects/discoalarm) (IoT) with Arduino/Raspberry Pi, Python, and AWS
+* ...flown [autonomous drones](/projects/projectbrett) to survey areas with C/C++
 
 <br>
 <br>

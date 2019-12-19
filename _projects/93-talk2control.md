@@ -14,7 +14,7 @@ timeline: Dec. 2, 2017
 *Talk 2 Control main page!*{: .caption-right .caption-6}
 
 Talk 2 Control is a web application that controls your screen using voice recognition!  
-The project is deployed as a Linux server at http://talk2control.tech.  
+The project was deployed as a Linux server at http://talk2control.tech. (Unfortunately, it is no longer active)  
 "Control your slides with Talk 2 Control magic!"  
 
 The project was built with Python, Flask, HTML, CSS, and JavaScript, and deployed on Digital Ocean.  
@@ -25,6 +25,5 @@ Our team won 1<sup>st</sup> Place!
 
 
 Check out the project page and learn about how it was created at [Devpost](https://devpost.com/software/talk2control-9vzc1s){:target="_blank"}!  
-View the project at [talk2control.tech](http://talk2control.tech){:target="_blank"}.  
 Read my [blog post](/2017/12/talk-to-control-tech) about the experience at the event.  
 Head to my [GitHub repository](https://github.com/WilliamLQin/talk2control){:target="_blank"}.

@@ -2,10 +2,10 @@
 layout: project
 title: Plant
 slug: plant
-description: Rapid tower defense game with freedom of placement and movement. Currently in development!
+description: Experimental rapid tower defense game with freedom of placement and movement.
 image: /assets/img/squares/plant.jpg
 bgcolor: "9575CD"
-timeline: Jun. 2017 - present
+timeline: Jun. 2017
 ---
 
 # Plant
@@ -13,9 +13,6 @@ timeline: Jun. 2017 - present
 ![Plant](/assets/img/plant1-min.jpg){: .image-right .image-6}
 *Plant gameplay! You can see the rocket, rapid, and basic turrets.*{: .caption-right .caption-6}
 
-Plant is a rapid tower defense game with freedom of placement and movement!  
-It will run as a standalone application on Windows, Mac OS, and Linux.  
+Plant was a rapid tower defense game with freedom of placement and movement!  
 
-The project is being created in Unity and programmed in C#, and the assets are being created using Adobe Illustrator.  
-
-Currently code-named "Plant"; this Unity project is currently under development as a side hobby! 
+The project was developed in Unity and programmed in C#, and the assets were created using Adobe Illustrator.  

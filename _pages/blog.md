@@ -5,4 +5,4 @@ description: My platform for sharing my personal thoughts, experiences, tutorial
 bgcolor: "A1887F"
 ---
 
-ayy lmao blog 
+deprecated

@@ -16,7 +16,7 @@
 title: William Qin
 email: william.qin51@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! I'm William Qin, and I've got projects, video games, stories, tutorials, and ideas to share!
+  Hi! I'm William Qin, and I've got projects, video games, stories, and ideas to share!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://williamqin.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -26,9 +26,6 @@ collections:
     output: true
     permalink: /:year/:month/:title/
   projects:
-    output: true
-    permalink: /:collection/:title/
-  activities:
     output: true
     permalink: /:collection/:title/
   pages:
