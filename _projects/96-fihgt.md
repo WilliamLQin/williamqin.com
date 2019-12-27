@@ -19,9 +19,6 @@ It runs as a standalone application on Windows, Mac OS, and Linux.
 
 The project was created in Unity and programmed in C#, and assets were created using AESprite.  
 
-Fihgt was a short side project that was started with a friend during the winter break.  
-We are now working on a new project with a bigger scope: [Plant](/projects/plant)!  
-
 
 Play Fihgt now!  
 

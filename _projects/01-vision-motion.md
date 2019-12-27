@@ -28,7 +28,7 @@ Later, I continued working on the project and published it on the Google Play St
 It has been used in physics classrooms to enhance learning!  
 
 
-Check out the project at [visionmotion.tech](http://visionmotion.tech){:target="_blank"}!  
+Check out the project at [visionmotion.williamqin.com](http://visionmotion.williamqin.com){:target="_blank"}!  
 Learn more about how this project was created at [Devpost](https://devpost.com/software/visionmotion){:target="_blank"}!    
 Head to my GitHub [repository](https://github.com/WilliamLQin/Vision-Motion){:target="_blank"}!  
 
