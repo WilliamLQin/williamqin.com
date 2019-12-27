@@ -32,7 +32,66 @@
                 padding: 0px;
             }
 
+            #scroll-button {
+                cursor: pointer;
+                display: block;
+                position: fixed;
+                font-size: 4rem;
+                text-align: center;
+                width: 6rem;
+                bottom: -1rem;
+                margin-left: -3rem;
+                left: 50%;
+            
+                background-color: Transparent;
+                outline:none;
+                border:none;
+            
+                transform: translateY(0%);
+                opacity: 1;
+                z-index: 10;
+            
+                transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+            }
         </style>
+        <script>
+function hasScrollBehavior() {
+    return "scrollBehavior" in document.documentElement.style;
+}
+   
+function scrollTo() {
+    if (hasScrollBehavior()) {
+      document.getElementById('scroll-pos').scrollIntoView({behavior: 'smooth'});
+    } else {
+      window.scrollTo(0, window.scrollX + document.getElementById('scroll-pos').getBoundingClientRect().top);
+    }
+}
+   
+function toggleScrollButton() {
+    var y = window.scrollY;
+    var e = document.getElementById("scroll-button");
+    if (y < 50) {
+      e.style.transform = "translateY(0%)";
+      e.style.opacity = 1;
+    } else {
+      e.style.opacity = 0;
+      e.style.transform = "translateY(200%)";
+    }
+}
+   
+document.addEventListener(
+    "DOMContentLoaded",
+    function() {
+      document.removeEventListener("DOMContentLoaded", arguments.callee, false);
+   
+      window.addEventListener("scroll", toggleScrollButton);
+   
+      var e = document.getElementById("scroll-button");
+      e.addEventListener("click", scrollTo, false);
+    },
+    false
+);
+        </script>
     </head>
     <body>
         
@@ -77,9 +136,13 @@
                     <div class="col-sm-2"></div>
                 </div>
             </div>
+            <br>
+            <button id='scroll-button'>
+                <i class="fa fa-angle-down"></i>
+            </button>
         </div>
 
-        <div class="holder holder-stack">
+        <div id="scroll-pos" class="holder holder-stack">
             <div class="container card card-page animated fadeIn">
                 {{content}}
             </div>
