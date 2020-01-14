@@ -28,13 +28,13 @@ To get started, users would set a disco alarm with Alexa by saying "Alexa, tell 
 <br>
 
 The process through which Disco Alarm worked was as follows:  
-First, the Alexa skill and the stdlib function worked together to ask you all the questions needed to setup an alarm.  
-Then, once all the details had been determined, the stdlib function sent a payload with all the details to AWS IoT, which passed it on to the Raspberry Pi via MQTT.  
+First, the Alexa skill and the AWS Lambda/stdlib function worked together to ask you all the questions needed to setup an alarm.  
+Then, once all the details had been determined, the AWS Lambda/stdlib function sent a payload with all the details to AWS IoT, which passed it on to the Raspberry Pi via MQTT.  
 Finally, the Raspberry Pi received the message and set an alarm for the appropriate time. Extensive code was required for integrating different colour modes and ensuring that there was no time drift.  
 
 <br>
 
-Node.js was used for stdlib function programming. Python was used for Raspberry Pi programming.
+Node.js was used for AWS Lambda/stdlib function programming. Python was used for Raspberry Pi programming.
 
 Disco Alarm was built solo at Hack the 6ix 2018, a 36-hour hackathon at Top Hat HQ, with 400 participants!  
 I finished as a finalist!
