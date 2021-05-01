@@ -4,16 +4,17 @@ title: Home
 description: Hi! I'm William Qin, and I've got projects, video games, stories, tutorials, and ideas to share!
 ---
 
-# Hi, I'm William Qin
+# Hi, I'm William
   
 I am a student, developer, and creator, studying software engineering at the University of Waterloo.  
-I love to learn, take opportunities to grow, and tackle difficult problems whenever possible!
+I love to learn, take opportunities to grow, and tackle difficult problems whenever possible!  
 
-<br>
+In the past, I've worked at [Spatial](https://spatial.io){:target="_blank"} to build the next generation of collaboration with the cutting edge of AR/VR technology. At Spatial, I created a guest user experience, migrated their web infrastructure to Kubernetes and Terraform, and ported the entire core meetings app to mobile phones.  
 
 ![It's me at a hackathon!](/assets/img/william6-min.jpg){: .image-4 .image-right}
 
-Currently, I use and work with many different programming languages and tools! So far, I have...
+In my personal projects, I use and work with many different programming languages and tools.
+So far, I have...
 
 * ...made [games](/projects/fihgt) in Unity with C#
 * ...used your [brain waves](/projects/thinktank) from a Muse headband to play a game in Unity

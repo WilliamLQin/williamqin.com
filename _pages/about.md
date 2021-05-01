@@ -5,18 +5,19 @@ description: Learn all about me!
 bgcolor: "9FA8DA"
 ---
 
-![It's me in a suit!](/assets/img/william3-min.jpg){: .image-6}
+![It's a picture of me!](/assets/img/william3-min.jpg){: .image-6}
 <br/>
 
-# Hi, I'm William Qin
+# Hi, I'm William
   
-I am a student, developer, and creator! Right now, I am studying software engineering at the University of Waterloo and experimenting with new technologies to learn new skills as I pursue my passion for technology and creation. I love to learn, take opportunities to grow, and tackle difficult problems whenever possible.
+I am a student, developer, and creator! Right now, I am studying software engineering at the University of Waterloo and experimenting with new technologies to learn new skills as I pursue my passion for technology and creation. I love to learn, take opportunities to grow, and tackle difficult problems whenever possible.  
 
-<br>
+In the past, I've worked at [Spatial](https://spatial.io){:target="_blank"} to build the next generation of collaboration with the cutting edge of AR/VR technology. At Spatial, I created a guest user experience, migrated their web infrastructure to Kubernetes and Terraform, and ported the entire core meetings app to mobile phones.  
 
 ![It's me at a hackathon!](/assets/img/william6-min.jpg){: .image-4 .image-right}
 
-Currently, I use and work with many different programming languages and tools! So far, I have...
+In my personal projects, I use and work with many different programming languages and tools.
+So far, I have...
 
 * ...made [games](/projects/fihgt) in Unity with C#
 * ...used your [brain waves](/projects/thinktank) from a Muse headband to play a game in Unity
@@ -28,7 +29,8 @@ Currently, I use and work with many different programming languages and tools! S
 * ...made [smart devices](/projects/discoalarm) (IoT) with Arduino/Raspberry Pi, Python, and AWS
 * ...flown [autonomous drones](/projects/projectbrett) to survey areas with C/C++
 
-<br>
+Find the rest of my projects [here](/projects) or head to my [blog](/blog) where I elaborate more on my experiences!
+
 <br>
 
 ![It's me snowboarding!](/assets/img/william5.jpg){: .image-6 .image-right}
