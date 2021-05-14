@@ -48,10 +48,6 @@ Thanks for visiting! You can reach me via:<br>
     &nbsp; <i class="fa fa-fw fa-github"></i>
     <span>&nbsp; GitHub (WilliamLQin)</span>
 </a><br>
-<a href="https://facebook.com/{{site.facebook}}" target="_blank" rel="noopener noreferrer">
-    &nbsp; <i class="fa fa-fw fa-facebook"></i>
-    <span>&nbsp; Facebook (William Qin)</span>
-</a><br>
 <a href="https://linkedin.com/in/{{site.linkedin}}" target="_blank" rel="noopener noreferrer">
     &nbsp; <i class="fa fa-fw fa-linkedin"></i>
     <span>&nbsp; LinkedIn (williamqin)</span>
