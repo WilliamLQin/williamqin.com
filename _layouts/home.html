@@ -61,9 +61,9 @@ function hasScrollBehavior() {
    
 function scrollTo() {
     if (hasScrollBehavior()) {
-      document.getElementById('scroll-pos').scrollIntoView({behavior: 'smooth'});
+      document.getElementById('about').scrollIntoView({behavior: 'smooth'});
     } else {
-      window.scrollTo(0, window.scrollX + document.getElementById('scroll-pos').getBoundingClientRect().top);
+      window.scrollTo(0, window.scrollX + document.getElementById('about').getBoundingClientRect().top);
     }
 }
    
@@ -97,9 +97,7 @@ document.addEventListener(
         
         <div class="vertical-center holder">
             <div class="container card card-home text-center animated fadeIn">
-                <a href="about">
-                    <img class="full portrait" src="../assets/img/squares/portrait2.jpg" />
-                </a>
+                <img class="full portrait" src="../assets/img/squares/portrait2.jpg" />
                 <br>
                 <h1>
                     William Qin
@@ -114,7 +112,7 @@ document.addEventListener(
                 <div class="row">
                     <div class="col-sm-2"></div>
                     <div class="col-sm-2 navlink">
-                        <a href="/about">
+                        <a href="/#about">
                             About
                         </a>
                     </div>
@@ -142,13 +140,15 @@ document.addEventListener(
             </button>
         </div>
 
-        <div id="scroll-pos" class="holder holder-stack">
+        <div id="about" class="holder holder-stack">
             <div class="container card card-page animated fadeIn">
                 {{content}}
             </div>
         </div>
 
-        {% include footer.html %}
+        <div class="footer-home">
+            {% include footer.html %}
+        </div>
 
         {% include scripts.html %}
     </body>

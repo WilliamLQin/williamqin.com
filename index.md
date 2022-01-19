@@ -9,7 +9,7 @@ description: Hi! I'm William Qin, and I've got projects, video games, stories, t
 I am a student, developer, and creator, studying software engineering at the University of Waterloo.  
 I love to learn, take opportunities to grow, and tackle difficult problems whenever possible!  
 
-In the past, I've worked at [Spatial](https://spatial.io){:target="_blank"} to build the next generation of collaboration with the cutting edge of AR/VR technology. At Spatial, I created a guest user experience, migrated their web infrastructure to Kubernetes and Terraform, and ported the entire core meetings app to mobile phones.  
+Last term, I joined the chassis controls firmware team at [Tesla](https://www.tesla.com/){:target="_blank"} and built a test framework around their open loop simulation validation software. Before that, I worked at [Spatial](https://spatial.io){:target="_blank"} to build the next generation of collaboration with the cutting edge of AR/VR technology. At Spatial, I created a guest user experience, migrated their web infrastructure to Kubernetes and Terraform, and ported the entire core meetings app to mobile phones.  
 
 ![It's me at a hackathon!](/assets/img/william6-min.jpg){: .image-4 .image-right}
 
